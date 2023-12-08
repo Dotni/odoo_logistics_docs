@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "97251ea624288d1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e948ea6fdcd74be2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "615c972aa1d2c16d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "71d781c7b99ff09a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0e181c9ca836be2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7659da7ba92df5bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7a7b2f5b94254f45",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "59d0a252169a7b5c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5a488be13c9cb1d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6eae8afa50ec3a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f728ab997e8c08ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c728b46d74261365",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "85f5437af0553a8a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "21d19707b084d5e5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "615c972aa1d2c16d",
+  "lastOpenFiles": [
+    "Summary.md",
+    "Product/Product module.md",
+    "Product/Product.attribute.md",
+    "Product/Product.category.md",
+    "Product/Product.attribute.value.md",
+    "Stock/Stock module.md",
+    "Product/Uom.uom.md",
+    "Product/Template.attribute.line.md",
+    "Product/Template.attribute.custom.value.md",
+    "Product/Template attribute value.md",
+    "Product/Product.template.md",
+    "Product/Product.product.md",
+    "General/sale.order.md",
+    "productand are displayed in [[.md",
+    "Product/Variant.md",
+    "Template.attribute.custom.value.md",
+    "MRP/Shop floor.md",
+    "MRP/MRP.md",
+    "MRP/Bom.md",
+    "General/Product configurator.md",
+    "General/Sale.md",
+    "General",
+    "Untitled.md",
+    "MRP/Workcenter.md",
+    "MRP/Unbuild.md",
+    "MRP/Routing.md",
+    "MRP/Production.md",
+    "Carriers",
+    "Barcode",
+    "Product",
+    "dashboard-ReadLineLength.css",
+    "dashboard-ReadLineLength.css.css",
+    "dashboard.css",
+    "MRP",
+    "Stock"
+  ]
+}
